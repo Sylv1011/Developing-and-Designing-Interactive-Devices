@@ -23,6 +23,10 @@ Your project is to design and build an interactive device to suit a specific app
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
 
+<img width="1440" alt="Screen Shot 2022-11-15 at 3 00 36 PM" src="https://user-images.githubusercontent.com/38329866/202014806-93435db8-2cdc-4ed3-89bf-db1a47cf0697.png">
+
+<img width="1440" alt="Screen Shot 2022-11-15 at 3 00 46 PM" src="https://user-images.githubusercontent.com/38329866/202014811-667604eb-8724-479d-bda4-4d3675fbea95.png">
+
 2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
 
 3. Documentation of design process
